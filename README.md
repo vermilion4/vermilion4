@@ -4,7 +4,7 @@
 
 <div align="center" width="100">
 
-<img src="https://en.bloggif.com/tmp/8a417741a1b0439fa170c1370d1d3592/text.gif?1641253524" alt="Welcome!" width="500"/>
+<img src="https://screenshots.visme.co/9e/d4/85/79/b4a6fab7c58beb09036220318dcf29b6_f.jpg?v=35" alt="Welcome!" width="500"/>
 
 </div>
 <br>
