@@ -72,8 +72,8 @@ or <a href="mailto:andupu4@gmail.com"><b>email</b></a> me
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vermilion4&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="vermilion4" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=vermilion4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="vermilion4" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vermilion4&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="vermilion4" height="200px" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=vermilion4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="vermilion4" height="200px"/></td>
   </tr>
 </table>
 
