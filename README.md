@@ -61,7 +61,7 @@ or <a href="mailto:andupu4@gmail.com"><b>email</b></a> me
   <table>
   <tr>
     <td><a href="https://codepen.io/vermilion4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vermilion4" height="30" width="40" /></a></td>
-    <td><a href="https://linkedin.com/in/adaeze-ndupu-31ab42176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adaeze-ndupu-31ab42176" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/adaeze-ndupu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adaeze-ndupu-31ab42176" height="30" width="40" /></a></td>
     <td><a href="https://hashnode.com/@vermilion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vermilion" height="30" width="40" /></a></td>
     <td><a href="https://www.hackerrank.com/andupu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andupu4" height="30" width="40" /></a></td>
   </tr>
