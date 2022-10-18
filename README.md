@@ -71,6 +71,7 @@ or <a href="mailto:andupu4@gmail.com"><b>email</b></a> me
 
 <h2 align="left">Badges:</h2>
 [![@vermilion4's Holopin board](https://holopin.me/vermilion4)](https://holopin.io/@vermilion4)
+
 <br><br>
 
 <table>
