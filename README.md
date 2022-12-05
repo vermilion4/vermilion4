@@ -65,6 +65,9 @@ or <a href="mailto:andupu4@gmail.com"><b>email</b></a> me
     <td><a href="https://hashnode.com/@vermilion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vermilion" height="30" width="40" /></a></td>
     <td><a href="https://www.hackerrank.com/andupu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andupu4" height="30" width="40" /></a></td>
   </tr>
+    <tr>
+      <td><a href="https://twitter.com/what_is_a_swat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@what_is_a_swat" height="30" width="40" /></a></td>
+    </tr>
 </table>
 
 </div>
