@@ -11,10 +11,10 @@
 
 <div>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=vermilion4.vermilion4)
+![](https://komarev.com/ghpvc/?username=vermilion4)
 [![Github](https://img.shields.io/github/followers/vermilion4)](https://github.com/vermilion4)
 
-<div size='20px'> Hi! My name is Adaeze, I am a Frontend Developer.<br>
+<div size='20px'> Hi! My name is Adaeze Ndupu, I am a Frontend Developer.<br>
   Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <br>
@@ -73,8 +73,8 @@ or <a href="mailto:andupu4@gmail.com"><b>email</b></a> me
 </div>
 
 <h2 align="left">Badges:</h2>
-[![@vermilion4's Holopin board](https://holopin.me/vermilion4)](https://holopin.io/@vermilion4)
 
+[![An image of @vermilion4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vermilion4)](https://holopin.io/@vermilion4)
 <br><br>
 
 <table>
