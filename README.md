@@ -1,5 +1,5 @@
 <!-- Animated wave banner in brand black → maroon gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:800000,100:C1121F&height=220&section=header&text=Adaeze%20Ndupu&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Lagos%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:800000,100:C1121F&height=220&section=header&text=Adaeze%20Ndupu&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Ottawa%2C%20Canada%20%F0%9F%87%A8%F0%9F%87%A6&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
 
 <div align="center">
 
