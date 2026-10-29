@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 104" width="490" height="104" role="img" aria-label="Achievement unlocked: Four Agents, One Email. DealFlow · Airia AI Agents Hackathon">
+<title>Achievement unlocked: Four Agents, One Email. DealFlow · Airia AI Agents Hackathon</title>
+<style>
+.shine{animation:sh 4.5s ease-in-out infinite}@keyframes sh{0%,60%{transform:translateX(-200px)}100%{transform:translateX(700px)}}
+.spin{transform-origin:52px 52px;animation:spin 10s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+  <feGaussianBlur stdDeviation="5" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="softglow" x="-30%" y="-60%" width="160%" height="220%">
+  <feGaussianBlur stdDeviation="2.2" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+  <rect width="4" height="2" fill="#000" opacity=".22"/>
+</pattern>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1c070c"/><stop offset="1" stop-color="#0a0507"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="488" height="102" rx="52"/></clipPath>
+</defs>
+
+<g clip-path="url(#c)">
+<rect width="490" height="104" fill="url(#bg)"/>
+<circle cx="52" cy="52" r="36" fill="#0a0507" stroke="#C1121F" stroke-width="3" />
+<circle class="spin" cx="52" cy="52" r="43" fill="none" stroke="#C1121F" stroke-opacity=".5" stroke-dasharray="4 8"/>
+<path d="M40 34 h24 v10 a12 12 0 0 1 -24 0 z" fill="#C1121F"/><path d="M40 37 h-6 a6 6 0 0 0 6 10 M64 37 h6 a6 6 0 0 1 -6 10" stroke="#C1121F" stroke-width="3" fill="none"/><rect x="49" y="55" width="6" height="8" fill="#C1121F"/><rect x="42" y="63" width="20" height="6" rx="2" fill="#C1121F"/>
+<text x="106" y="34" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#C1121F" letter-spacing="3">ACHIEVEMENT UNLOCKED · SHIPPED</text>
+<text x="106" y="62" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="800" fill="#fff">Four Agents, One Email</text>
+<text x="106" y="84" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#bfb2b5">DealFlow · Airia AI Agents Hackathon</text>
+<text x="464" y="34" text-anchor="end" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="900" fill="#C1121F">G 50</text>
+<rect class="shine" x="0" y="0" width="120" height="104" fill="url(#sh)" transform="skewX(-20)"/>
+</g>
+<rect x="1" y="1" width="488" height="102" rx="52" fill="none" stroke="#C1121F" stroke-opacity="0.45" stroke-width="2"/>
+
+</svg>
