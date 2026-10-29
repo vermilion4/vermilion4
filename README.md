@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/adacoder.ng-Visit_My_Portfolio-800000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adacoder.ng)
+[![Portfolio](https://img.shields.io/badge/adacoder.com-Visit_My_Portfolio-800000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adacoder.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adaeze-ndupu)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-C1121F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andupu4@gmail.com)
 [![X](https://img.shields.io/badge/@what__is__a__swat-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/what_is_a_swat)
@@ -119,7 +119,7 @@
     <td width="33%" valign="top">
       <h3 align="center">🔎 FaceSearchAI Revamp</h3>
       <p align="center">
-        <a href="https://adacoder.ng">
+        <a href="https://adacoder.com">
           <img src="https://img.shields.io/badge/On_My_Portfolio-800000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
         </a>
       </p>
