@@ -2,7 +2,7 @@
 
 <a href="https://adacoder.com"><img width="100%" src="assets/header.svg" alt="Adaeze Ndupu, Frontend Engineer in Ottawa, Canada. Press start at adacoder.com"/></a>
 
-<img width="100%" src="assets/dialogue.svg" alt="Ada: Hi! I'm Ada, a frontend engineer at Appnigma.ai. I turn designs into pixel-perfect experiences. Five years of React and Next.js in production, and lately I build with AI, not just around it. 11 hackathons and counting. Off the clock: games, anime, and whatever I'm learning this week."/>
+<img width="100%" src="assets/dialogue.svg" alt="Ada: Hi! I'm Ada, a frontend engineer at Appnigma.ai. I turn designs into pixel-perfect experiences. Five years of React and Next.js in production, and lately I build with AI, not just around it. 7 hackathons and counting. Off the clock: games, anime, and whatever I'm learning this week."/>
 
 [![Portfolio](https://img.shields.io/badge/▶_adacoder.com-800000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adacoder.com)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/vermilion4)
@@ -93,7 +93,7 @@
 
 <br/>
 
-[![Devpost](https://img.shields.io/badge/11_hackathons_entered_·_see_them_all_on_Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/vermilion4)
+[![Devpost](https://img.shields.io/badge/7_hackathons_·_see_them_all_on_Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/vermilion4)
 
 <br/>
 
@@ -107,7 +107,7 @@
 
 <img src="https://img.shields.io/github/followers/vermilion4?style=for-the-badge&logo=github&labelColor=000000&color=800000&label=FOLLOWERS" alt="Followers"/>
 <img src="https://img.shields.io/badge/REPOSITORIES-145+-800000?style=for-the-badge&logo=github&labelColor=000000" alt="Repos"/>
-<img src="https://img.shields.io/badge/HACKATHONS-11-800000?style=for-the-badge&logo=devpost&labelColor=000000" alt="Hackathons"/>
+<img src="https://img.shields.io/badge/HACKATHONS-7-800000?style=for-the-badge&logo=devpost&labelColor=000000" alt="Hackathons"/>
 <img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-800000?style=for-the-badge&logo=react&labelColor=000000" alt="Experience"/>
 <img src="https://komarev.com/ghpvc/?username=vermilion4&color=800000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 

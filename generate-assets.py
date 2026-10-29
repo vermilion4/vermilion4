@@ -172,7 +172,7 @@ def header():
 <g class="rain">{rain}</g>
 
 <text x="56" y="48" font-family="{MONO}" font-size="13" fill="{DIM}" letter-spacing="2">AdaOS 2.0 <tspan fill="{CRIMSON}">▸</tspan> SYSTEM ONLINE <tspan class="pulse" fill="#4ade80">●</tspan></text>
-<text x="944" y="48" text-anchor="end" font-family="{MONO}" font-size="13" fill="{DIM}" letter-spacing="2">1P <tspan fill="{CRIMSON}">♥ ♥ ♥</tspan>   HI-SCORE <tspan fill="{INK}">11 HACKATHONS</tspan></text>
+<text x="944" y="48" text-anchor="end" font-family="{MONO}" font-size="13" fill="{DIM}" letter-spacing="2">1P <tspan fill="{CRIMSON}">♥ ♥ ♥</tspan>   HI-SCORE <tspan fill="{INK}">7 HACKATHONS</tspan></text>
 
 <text x="54" y="104" font-family="{JP}" font-size="15" fill="#ff6b7a" letter-spacing="6" opacity=".9">フロントエンド・エンジニア</text>
 <g class="title">
@@ -201,7 +201,7 @@ def dialogue():
     lines = [
         ("Hi! I'm Ada, a frontend engineer at Appnigma.ai.", "I turn designs into pixel-perfect experiences."),
         ("Five years of React and Next.js in production,", "and lately I build with AI, not just around it."),
-        ("11 hackathons and counting. One trophy so far.", "Always looking for the next quest. Team up?"),
+        ("7 hackathons and counting. One trophy so far.", "Always looking for the next quest. Team up?"),
         ("Off the clock: games, anime, and whatever", "I'm learning this week. (I learn fast.)"),
     ]
     n = len(lines)
