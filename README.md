@@ -117,10 +117,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermilion4&bg_color=0B0608&color=E5E5E5&line=C1121F&point=FF8A95&area=true&area_color=800000&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
-
-<br/><br/>
-
 <sub>🐍 <b>BONUS STAGE:</b> watch the snake eat my contributions</sub>
 
 <picture>
