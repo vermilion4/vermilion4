@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Typing intro -->
-<a href="https://adacoder.ng">
+<a href="https://adacoder.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C1121F&center=true&vCenter=true&width=620&lines=I+turn+designs+into+pixel-perfect+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS;Technical+writer+%40+OpenReplay+%26+Hashnode;Gamer+%F0%9F%8E%AE+Anime+lover+%F0%9F%8D%9C+Fast+learner+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
