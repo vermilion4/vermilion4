@@ -557,7 +557,7 @@ def footer():
     for i in range(n):
         s, e = i * 10, (i + 1) * 10
         style += f"@keyframes d{i}{{0%{{opacity:{1 if i==0 else 0}}}" + (f"{s-0.01:.2f}%{{opacity:0}}{s}%{{opacity:1}}" if i else "") + f"{e-0.01:.2f}%{{opacity:1}}{e}%,100%{{opacity:0}}}}.d{i}{{animation:d{i} 10s infinite}}"
-        digits += f'<text class="d{i}" x="660" y="132" font-family="{DISPLAY}" font-size="40" font-weight="900" fill="{CRIMSON}" filter="url(#softglow)">{9-i}</text>'
+        digits += f'<text class="d{i}" x="571" y="132" font-family="{DISPLAY}" font-size="40" font-weight="900" fill="{CRIMSON}" filter="url(#softglow)">{9-i}</text>'
     defs = GLOW_DEFS + f"""
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050206"/><stop offset="1" stop-color="#3a0812"/></linearGradient>
 <clipPath id="c"><rect width="{W}" height="{H}" rx="18"/></clipPath>
@@ -568,7 +568,7 @@ def footer():
 {city}
 <text x="{W/2}" y="70" text-anchor="middle" font-family="{DISPLAY}" font-size="38" font-weight="900" fill="{CRIMSON}" opacity=".7" filter="url(#glow)" letter-spacing="4">THANKS FOR PLAYING</text>
 <text x="{W/2}" y="70" text-anchor="middle" font-family="{DISPLAY}" font-size="38" font-weight="900" fill="#fff4f4" letter-spacing="4">THANKS FOR PLAYING</text>
-<text x="640" y="132" text-anchor="end" font-family="{MONO}" font-size="22" font-weight="700" fill="{INK}" letter-spacing="4">CONTINUE?</text>
+<text x="553" y="132" text-anchor="end" font-family="{MONO}" font-size="22" font-weight="700" fill="{INK}" letter-spacing="4">CONTINUE?</text>
 {digits}
 <text class="blink" x="{W/2}" y="170" text-anchor="middle" font-family="{MONO}" font-size="15" fill="#fff" letter-spacing="3">▶ YES  —  adacoder.com</text>
 <rect width="{W}" height="{H}" fill="url(#scan)"/>
