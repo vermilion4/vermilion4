@@ -95,10 +95,6 @@
 
 [![Devpost](https://img.shields.io/badge/7_hackathons_·_see_them_all_on_Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/vermilion4)
 
-<br/>
-
-[![Holopin badges](https://holopin.me/vermilion4)](https://holopin.io/@vermilion4)
-
 <br/><br/>
 
 <img width="100%" src="assets/sections/save.svg" alt="06 Save data"/>
